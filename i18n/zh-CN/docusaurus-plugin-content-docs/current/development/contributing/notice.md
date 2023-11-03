@@ -30,10 +30,8 @@ sidebar_label: 所依赖的开源项目
 * <https://npmjs.com/package/copy-to-clipboard>
 * <https://npmjs.com/package/dayjs>
 * <https://npmjs.com/package/i18next>
-* <https://npmjs.com/package/katex>
 * <https://npmjs.com/package/lodash>
 * <https://npmjs.com/package/marked>
-* <https://npmjs.com/package/mermaid>
 * <https://npmjs.com/package/next-share>
 * <https://www.npmjs.com/package/qrcode>
 * <https://npmjs.com/package/react>
@@ -90,3 +88,7 @@ sidebar_label: 所依赖的开源项目
 ## MPL-2.0
 
 * <https://github.com/go-sql-driver/mysql>
+
+## ISC
+
+* <https://github.com/npm/node-semver>
